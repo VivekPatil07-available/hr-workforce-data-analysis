@@ -1,0 +1,19 @@
+--  Q1 Write a SQL query to find the total number of employees in the table.
+
+-- Q2 Write a SQL query to display the number of employees in each department.
+
+-- Q3 Write a SQL query to retrieve all employees who left the company (Attrition = 'Yes').
+
+-- Q4 Write a SQL query to find the average monthly income for each job role.
+
+-- Q5 Write a SQL query to display the top 5 highest paid employees.
+
+-- Q6 Write a SQL query to find employees whose monthly income is above the company average.
+
+-- Q7 Write a SQL query to calculate the attrition count for each department.
+
+-- Q8 Write a SQL query to show employees where YearsWithCurrManager is NULL.
+
+-- Q9 Write a SQL query to replace NULL MonthlyIncome with 0 in the output.
+
+-- Q10  Write a SQL query to find the highest paid employee in each department.
