@@ -1,76 +1,111 @@
+# HR Workforce Data Analysis
+
+## Project Overview
+This project analyzes HR workforce data to identify employee trends, workforce patterns, and key HR metrics. The goal is to understand employee attrition, workforce distribution, and performance insights using data analysis techniques.
+
+---
+
+## Dataset Summary
+
+The dataset contains employee-related information such as:
+
+- Employee ID
+- Department
+- Job Role
+- Salary
+- Gender
+- Age
+- Years at Company
+- Job Satisfaction
+- Attrition Status
+
+---
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- Excel
+- Power BI
+- Matplotlib
+- Seaborn
+
+---
+
+## Data Cleaning & Preparation
+
+Data preprocessing steps included:
+
+- Handling missing values
+- Removing duplicate records
+- Converting categorical variables into proper format
+- Standardizing column names
+
+---
+
+## Exploratory Data Analysis
+
+EDA was performed to understand:
+
+- Employee distribution by department
+- Attrition trends
+- Salary distribution
+- Age distribution
+- Job satisfaction levels
+
+---
+
+## HR Analysis
+
+Several key HR metrics were analyzed:
+
+- Attrition rate by department
+- Salary comparison across job roles
+- Employee experience vs retention
+- Gender distribution
+- Department-wise workforce analysis
+
+---
+
+## Key Insights
+
+- Certain departments showed higher attrition rates.
+- Employees with lower job satisfaction were more likely to leave.
+- Salary and experience influenced employee retention.
+
+---
+
+## Dashboard (Power BI)
+
+An interactive Power BI dashboard was created to visualize:
+
+- Employee attrition trends
+- Department workforce distribution
+- Salary analysis
+- Employee demographics
+
+---
+
+## Project Structure
+
 hr-workforce-data-analysis
-Project Overview
 
-This project analyzes HR employee data to understand attrition patterns, salary distribution, and workforce trends. The dataset was cleaned and processed using Python, stored in a MySQL database, and analyzed using SQL to extract business insights. An interactive dashboard was created in Microsoft Power BI to visualize key HR metrics.
+dataset  
+python-analysis  
+powerbi-dashboard  
+README.md  
 
-Dataset
+---
 
-The dataset contains employee-level information such as:
+## Author
 
-Department
+Vivek Patil
 
-Job Role
+GitHub  
+https://github.com/VivekPatil07-available
 
-Monthly Income
+Portfolio  
+https://vivekpatil07-available.github.io/Portfolio07
 
-Attrition
-
-Work-Life Balance
-
-Years with Current Manager
-
-Total Working Years
-
-Tools & Technologies
-
-Python (Pandas, Data Analysis)
-
-MySQL (SQL Queries for Business Analysis)
-
-Microsoft Power BI (Dashboard & Visualization)
-
-Project Workflow
-
-Data Cleaning – Handled missing values and standardized column names using Python.
-
-Data Storage – Stored the cleaned dataset in MySQL database.
-
-SQL Analysis – Performed queries to analyze attrition trends and employee distribution.
-
-Dashboard Creation – Built an interactive dashboard in Power BI.
-
-Key Analysis
-
-Employee distribution by gender
-
-Top 5 highest paid employees
-
-Attrition analysis by department
-
-Job roles with highest attrition
-
-Income distribution by work-life balance
-
-Dashboard
-
-The Power BI dashboard provides insights on:
-
-Employee attrition trends
-
-Department-wise analysis
-
-Salary distribution
-
-Workforce segmentation
-
-Key Insights
-
-Some departments show higher attrition rates.
-
-Work-life balance impacts employee retention.
-
-Salary distribution varies significantly across job roles.
-
-Author
-
-Your Vivek 
+LinkedIn  
+https://linkedin.com/in/vivek-patil-b60a45298
