@@ -1,4 +1,4 @@
-HR Analytics: Employee Attrition Analysis
+hr-workforce-data-analysis
 Project Overview
 
 This project analyzes HR employee data to understand attrition patterns, salary distribution, and workforce trends. The dataset was cleaned and processed using Python, stored in a MySQL database, and analyzed using SQL to extract business insights. An interactive dashboard was created in Microsoft Power BI to visualize key HR metrics.
